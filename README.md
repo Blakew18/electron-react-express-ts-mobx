@@ -30,11 +30,11 @@ Use this Script To Package your app but not create a windows installer. Use this
 ```  
     Use this Script to Pakage your app and create distrabutable files - You Do Not Need to Run Package and Then this, This will Package the App then create the distrbutables  
 ```sh  
-    npm run make 
+    npm run make
 ```  
     Use this Script to Publish a distrabutable as a release to github.  
 ```sh  
-    npm run publish  
+    npm run publish
 ```  
   
 **THIS IS A WINDOWS SET UP FOR ELECTRON FORGES BUILD AND PACKGE FUNCTIONS**  
