@@ -28,11 +28,11 @@ Use this Script To Package your app but not create a windows installer. Use this
 ```sh  
     npm run package 
 ```  
-    Use this Script to Pakage your app and create distrabutable files - You Do Not Need to Run Package and Then this, This will Package the App then create the distrbutables  
+Use this Script to Pakage your app and create distrabutable files - You Do Not Need to Run Package and Then this, This will Package the App then create the distrbutables  
 ```sh  
     npm run make
 ```  
-    Use this Script to Publish a distrabutable as a release to github.  
+Use this Script to Publish a distrabutable as a release to github.  
 ```sh  
     npm run publish
 ```  
