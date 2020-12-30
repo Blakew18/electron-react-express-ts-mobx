@@ -3,9 +3,9 @@ require('dotenv').config()
 module.exports = {
   "packagerConfig": {
     "icon": "src/icons/assistant.ico",
-    "name": "electron-react-express-ts-mobx-firebase",
+    "name": "electron-react-express-ts-mobx",
     "authors": "Blake Wiley",
-    "description": "Material Changing Apps",
+    "description": "electron-react-express-ts-mobx",
     "asar": true,
     "extraResource": [
       "vbs",
@@ -16,10 +16,9 @@ module.exports = {
     {
       "name": "@electron-forge/maker-squirrel",
       "config": {
-        "name": "electron-react-express-ts-mobx-firebase",
+        "name": "electron-react-express-ts-mobx-starter",
         "authors": "Blake Wiley",
-        "icon": "src/pages/assistant.ico",
-        "description": "Material Changing Apps"
+        "description": "electron-react-express-ts-mobx-starter"
       }
     }
   ],
