@@ -15,7 +15,7 @@ Extra Steps
   4 - AGAIN DO NOT LET YOUR .ENV File Commit  
   5 - Check out https://nuts.gitbook.com/deploy.html and set up a nuts service to auto update your app from github releases  
   6 - Once this is set up you can also check out https://nuts.gitbook.com/github.html to set up a webhook for the auto updates  
-  7 - Fill in Github Info inside the forge.config.json file in the root directory
+  7 - Fill in Github Info inside the forge.config.json file in the root directory  
   8 - Run on of the following scripts depending on what you need to do  
   
 **Scripts**  
