@@ -19,11 +19,22 @@ Extra Steps
   8 - Run on of the following scripts depending on what you need to do  
   
 **Scripts**  
-```sh
-    npm run dev //Use This Script To Open the App in development Mode. AutoUpdates will be off Dev tools will be installed and opened  
-    npm run package //Use this Script To Package your app but not create a windows installer. Use this option to test finished apps with out having to complete install them  
-    npm run make //Use this Script to Pakage your app and create distrabutable files - You Do Not Need to Run Package and Then this, This will Package the App then create the distrbutables  
-    npm run publish //Use this Script to Publish a distrabutable as a release to github.   
+
+    Use This Script To Open the App in development Mode. AutoUpdates will be off Dev tools will be installed and opened 
+```sh 
+    npm run dev
+```  
+    Use this Script To Package your app but not create a windows installer. Use this option to test finished apps with out having to complete install them 
+```sh  
+    npm run package 
+```  
+    Use this Script to Pakage your app and create distrabutable files - You Do Not Need to Run Package and Then this, This will Package the App then create the distrbutables 
+```sh  
+    npm run make 
+```  
+    Use this Script to Publish a distrabutable as a release to github.  
+```sh 
+    npm run publish  
 ``` 
   
 **THIS IS A WINDOWS SET UP FOR ELECTRON FORGES BUILD AND PACKGE FUNCTIONS**  
